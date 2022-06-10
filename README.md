@@ -1,16 +1,3 @@
 # clear_bank
-
-A new Flutter application.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+here is the app for the cats api, written in dart in one hour, for the future i would have the cards clickable to bring up mor information for each breed, i would also add some filtering options
+![image](https://user-images.githubusercontent.com/54099598/173115501-f23e3280-233e-4a1f-8af7-e72c09c883d4.png)
